@@ -1,2 +1,2 @@
-# eduardopat
-MI README 
+# Mi README
+OLA SOY EDUARDO
