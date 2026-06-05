@@ -1,7 +1,7 @@
 # Mi README
-Hola, me llamo Eduardo Pat, todos me dicen por mi apellido, Pat 
-Etudiante de Sistemas Computacionales 🪳💻
-Jugador semi-profesional de Fortnite Battle Royale, entusiasta de los gachas 🎮⚒️ 
+Hola, me llamo Eduardo Pat, todos me dicen por mi apellido, Pat <br>
+Etudiante de Sistemas Computacionales 🪳💻<br>
+Jugador semi-profesional de Fortnite Battle Royale, entusiasta de los gachas 🎮⚒️ <br>
 
 
 
